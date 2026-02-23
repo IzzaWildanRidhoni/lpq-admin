@@ -487,7 +487,7 @@ function UserDashboard({ stats }) {
                                     const BcIcon = bc.icon;
                                     return (
                                         <Link key={r.id} href={route('user.pendaftaran.show', r.id)}>
-                                            <div className="flex items-start gap-3 rounded-lg border p-3 hover:bg-muted/30 transition-colors">
+                                            <div className="flex items-start gap-3 mb-2 rounded-lg border p-3 hover:bg-muted/30 transition-colors">
                                                 <div className="flex-1 min-w-0">
                                                     <p className="text-sm font-medium truncate">{r.nama_kelas}</p>
                                                     <div className="flex items-center gap-2 mt-1 flex-wrap">

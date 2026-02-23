@@ -690,7 +690,7 @@ export default function Welcome({ auth }) {
                         <h2 className="sh reveal">Temukan Kami di<br/><span className="g">Masjid Syuhada</span></h2>
                         <p className="sd reveal">Masjid Syuhada adalah salah satu masjid bersejarah di Yogyakarta yang berdiri sejak 1952. Mudah dijangkau dari berbagai penjuru kota.</p>
                         <div className="loc-details reveal">
-                            {[[MapPin,'Alamat','Jl. Sudirman No. 139, Kotabaru\nGondokusuman, Yogyakarta 55224'],[Clock,'Jam Operasional','Senin – Sabtu, 07.00 – 21.00 WIB'],[Phone,'WhatsApp','+62 812-2700-XXXX'],[Mail,'Email','lpq@masjidsyuhada.id']].map(([Icon,lbl,val])=>(
+                            {[[MapPin,'Alamat','Jl. I Dewa Nyoman Oka No.13, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224'],[Clock,'Jam Operasional','Senin – Sabtu, 07.00 – 21.00 WIB'],[Phone,'WhatsApp','+62 812-2700-XXXX'],[Mail,'Email','lpq@masjidsyuhada.id']].map(([Icon,lbl,val])=>(
                                 <div key={lbl} className="loc-row">
                                     <div className="loc-icon"><Icon size={16}/></div>
                                     <div><div className="loc-lbl">{lbl}</div><div className="loc-val" style={{whiteSpace:'pre-line'}}>{val}</div></div>
@@ -702,7 +702,7 @@ export default function Welcome({ auth }) {
                         <div className="map-pin">
                             <div className="map-circle"><MapPin size={28} strokeWidth={1.5}/></div>
                             <div className="map-name">Masjid Syuhada</div>
-                            <div className="map-addr">Jl. Sudirman No. 139, Yogyakarta</div>
+                            <div className="map-addr">Jl. I Dewa Nyoman Oka No.13, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224</div>
                         </div>
                     </div>
                 </div>
