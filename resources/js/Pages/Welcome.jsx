@@ -470,7 +470,7 @@ export default function Welcome({ auth }) {
             <section className="hero" id="home">
                 <div className="hero-bg"/><div className="hero-dots"/>
                 <div className="hero-left">
-                    <div className="hero-badge a1"><span className="hero-bdot"/>Lembaga Pendidikan Quran Terpercaya</div>
+                    <div className="hero-badge a1">Lembaga Pendidikan Quran Terpercaya</div>
                     <h1 className="a2">Belajar Al-Quran di<br/><span className="accent">Masjid Syuhada</span></h1>
                     <div className="hero-ar a3">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</div>
                     <p className="hero-desc a4">Wujudkan impian membaca, memahami, dan menghafal Al-Quran bersama para pengajar berpengalaman di lingkungan Masjid Syuhada Yogyakarta. Terbuka untuk semua usia dan tingkatan.</p>
