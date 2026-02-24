@@ -1,4 +1,9 @@
-# 🗂️ Sistem Manajemen Peserta
+<img width="992" height="960" alt="Image" src="https://github.com/user-attachments/assets/f7515c01-1a90-44a7-ac99-182dfbe5701e" />
+<img width="992" height="960" alt="Image" src="https://github.com/user-attachments/assets/827eab52-b420-4353-8ac3-5134b4e10a0e" />
+<img width="992" height="960" alt="Image" src="https://github.com/user-attachments/assets/8abcd21c-c5e5-437f-ae93-c6a90058a7de" />
+<img width="992" height="960" alt="Image" src="https://github.com/user-attachments/assets/4aa2b865-f871-4e8b-a6ec-606e9f7f77f4" />
+
+# 🗂️ Lpq Admin 
 
 Aplikasi web manajemen peserta berbasis **Laravel 11**, **React (Inertia.js)**, dan **shadcn/ui**. Mendukung autentikasi, manajemen role, dan CRUD peserta dengan raw SQL tanpa Eloquent ORM.
 
